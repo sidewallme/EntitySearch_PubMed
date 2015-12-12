@@ -1,0 +1,10 @@
+, 12
+PP, 7
+NP, 3
+NP_PP_NP_NP_PP, 3
+PP_NP_PP, 3
+PP_NP_VP_PP, 2
+PP_NP, 2
+VP, 2
+NP_PP, 2
+VP_ADJP_PP, 2

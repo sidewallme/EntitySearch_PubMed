@@ -1,0 +1,10 @@
+, 23
+PP, 11
+VP_NP_PP, 6
+NP_PP, 6
+PP_NP, 4
+NP_NP, 4
+NP, 4
+PP_NP_PP_NP, 4
+NP_PP_NP, 3
+VP_PP, 3
